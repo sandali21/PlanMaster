@@ -4,7 +4,7 @@ This is a full-stack **Event Management System** built using **Spring Boot (Back
 
 ---
 
-## 🛠️ Backend (Spring Boot)
+## Backend (Spring Boot)
 
 ### **Technologies Used:**
 - **Spring Boot** (Java)
